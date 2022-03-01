@@ -40,7 +40,7 @@ nav .menu a
 {
      width:25%;
      text-decoration:none;
-     color:white; 
+     color:yellow; 
      font-weight:bold; 
 }
 main{
@@ -50,20 +50,20 @@ main{
   justify-content:center;
   align-items:center;
   text-align: center;
-  color:white;
+  color:blue;
 }
 section h3
 {
   font-size:35px; font-weight: 200 ;
   letter-spacing: 3px;
-  text-shadow: 1px 1px 2px black ;
+  text-shadow: 1px 1px 2px yellow ;
 }
 section h1
 {
  margin:  30px 0 20px 0;
  font-size:55px;
  font-weight: 700;
- text-shadow: 2px 1px 5px black;
+ text-shadow: 2px 1px 5px blue;
  text-transform: uppercase;
 }
 section p
@@ -71,7 +71,7 @@ section p
    font-size: 25px;
     word-spacing:2px;
     margin-bottom:25px;
-    text-shadow:1px 1px 1px black;
+    text-shadow:1px 1px 1px yellow;
 }
 section a
 {
@@ -86,8 +86,8 @@ section a
 }
 section .btntwo
 {
-  background:#00b894;
-  color: white  ;
+  background:#ffff00;
+  color: yellow  ;
 }
 nav.menu a:first-child
 {
